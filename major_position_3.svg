@@ -1,0 +1,38 @@
+<svg width="100%" viewBox="0 0 680 560" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Major Position 3 - Guitar chord diagram</title>
+
+
+<!-- Top line -->
+<path stroke-width="1.7" d="M158 82 Q230 80 308 81 Q390 80 464 83" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.7px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- Fret lines -->
+<path stroke-width="1.7" d="M159 167 Q240 165 308 167 Q390 166 463 168" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.7px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.6" d="M160 252 Q237 254 309 252 Q388 253 463 251" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.8" d="M158 337 Q239 336 308 338 Q389 336 464 338" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.7" d="M159 422 Q238 421 309 423 Q387 421 463 424" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.7px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.6" d="M160 507 Q240 509 308 507 Q388 508 464 506" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- String lines -->
+<path stroke-width="1.7" d="M160 82 C161 200 159 350 160 507" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.7px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.5" d="M220 82 C221 195 219 360 221 507" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.8" d="M280 82 C282 205 279 345 280 507" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.6" d="M340 82 C339 198 341 355 340 507" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.5" d="M400 83 C401 202 399 348 401 507" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<path stroke-width="1.7" d="M460 83 C462 197 461 352 460 507" style="fill:none;stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1.7px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- 7/19 label -->
+<text x="100" y="132" font-size="28" font-style="italic" text-anchor="end" style="fill:rgb(26, 18, 9);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:28px;font-weight:400;font-style:italic;text-anchor:end;dominant-baseline:auto">7/19</text>
+
+<!-- String 1 (x=160), fret 3 (y≈295) — black dot -->
+<path d="M160 278 C148 279 140 287 141 297 C141 308 150 315 161 314 C172 314 180 306 179 295 C178 285 171 277 160 278 Z" style="fill:rgb(26, 18, 9);stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- String 3 (x=280), fret 1 (y≈125) — red dot -->
+<path d="M280 109 C269 108 261 117 262 127 C262 137 270 145 281 144 C292 143 299 135 298 125 C297 115 291 109 280 109 Z" style="fill:rgb(185, 28, 28);stroke:rgb(185, 28, 28);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- String 4 (x=340), fret 3 (y≈295) — black dot -->
+<path d="M340 278 C329 277 321 286 322 296 C322 307 331 315 342 314 C353 313 360 305 359 294 C358 284 351 277 340 278 Z" style="fill:rgb(26, 18, 9);stroke:rgb(26, 18, 9);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- String 5 (x=400), fret 4 (y≈380) — red dot -->
+<path d="M401 363 C389 362 381 371 382 381 C382 392 391 400 402 399 C413 398 421 390 420 379 C419 369 412 363 401 363 Z" style="fill:rgb(185, 28, 28);stroke:rgb(185, 28, 28);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+</svg>

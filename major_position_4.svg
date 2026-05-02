@@ -1,0 +1,28 @@
+<svg width="680" height="560" viewBox="0 0 680 560" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Major Position 4 - Guitar chord diagram</title>
+<style>
+  .ink { stroke: #1a1209; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+  .ink-fill { fill: #1a1209; stroke: #1a1209; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round; }
+  .ink-fill-red { fill: #b91c1c; stroke: #b91c1c; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round; }
+  .ink-text { font-family: 'Georgia', serif; fill: #1a1209; }
+</style>
+<path class="ink" stroke-width="1.7" d="M158 82 Q230 80 308 81 Q390 80 464 83"/>
+<path class="ink" stroke-width="1.7" d="M159 167 Q240 165 308 167 Q390 166 463 168"/>
+<path class="ink" stroke-width="1.6" d="M160 252 Q237 254 309 252 Q388 253 463 251"/>
+<path class="ink" stroke-width="1.8" d="M158 337 Q239 336 308 338 Q389 336 464 338"/>
+<path class="ink" stroke-width="1.7" d="M159 422 Q238 421 309 423 Q387 421 463 424"/>
+<path class="ink" stroke-width="1.6" d="M160 507 Q240 509 308 507 Q388 508 464 506"/>
+<path class="ink" stroke-width="1.7" d="M160 82 C161 200 159 350 160 507"/>
+<path class="ink" stroke-width="1.5" d="M220 82 C221 195 219 360 221 507"/>
+<path class="ink" stroke-width="1.8" d="M280 82 C282 205 279 345 280 507"/>
+<path class="ink" stroke-width="1.6" d="M340 82 C339 198 341 355 340 507"/>
+<path class="ink" stroke-width="1.5" d="M400 83 C401 202 399 348 401 507"/>
+<path class="ink" stroke-width="1.7" d="M460 83 C462 197 461 352 460 507"/>
+<text class="ink-text" x="100" y="132" font-size="28" font-style="italic" text-anchor="end">9</text>
+<line x1="340" y1="125" x2="460" y2="125" stroke="#1a1209" stroke-width="5" stroke-linecap="round"/>
+<path class="ink-fill" d="M340 108 C329 107 321 116 322 126 C322 137 330 145 341 144 C352 144 360 136 359 126 C358 116 351 108 340 108 Z"/>
+<path class="ink-fill" d="M460 108 C449 107 441 116 442 126 C442 137 451 145 462 144 C473 143 480 135 479 125 C478 115 471 108 460 108 Z"/>
+<path class="ink-fill-red" d="M400 193 C388 192 380 201 381 211 C381 222 390 230 401 229 C412 228 420 220 419 209 C418 199 411 193 400 193 Z"/>
+<path class="ink-fill" d="M280 278 C268 279 260 287 261 297 C261 308 270 315 281 314 C292 314 300 306 299 295 C298 285 291 277 280 278 Z"/>
+<path class="ink-fill-red" d="M220 363 C208 364 200 372 201 382 C201 393 210 400 221 399 C232 399 240 391 239 380 C238 370 231 362 220 363 Z"/>
+</svg>
