@@ -1,0 +1,25 @@
+<svg width="680" height="560" viewBox="0 0 680 560" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Minor Position 1 - Guitar chord diagram</title>
+<style>
+  .ink { stroke: #1a1209; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+  .ink-fill { fill: #1a1209; stroke: #1a1209; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round; }
+  .ink-fill-red { fill: #b91c1c; stroke: #b91c1c; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round; }
+  .ink-text { font-family: 'Georgia', serif; fill: #1a1209; }
+</style>
+<path class="ink" stroke-width="1.7" d="M158 82 Q230 80 308 81 Q390 80 464 83"/>
+<path class="ink" stroke-width="1.7" d="M159 167 Q240 165 308 167 Q390 166 463 168"/>
+<path class="ink" stroke-width="1.6" d="M160 252 Q237 254 309 252 Q388 253 463 251"/>
+<path class="ink" stroke-width="1.8" d="M158 337 Q239 336 308 338 Q389 336 464 338"/>
+<path class="ink" stroke-width="1.7" d="M159 422 Q238 421 309 423 Q387 421 463 424"/>
+<path class="ink" stroke-width="1.6" d="M160 507 Q240 509 308 507 Q388 508 464 506"/>
+<path class="ink" stroke-width="1.7" d="M160 82 C161 200 159 350 160 507"/>
+<path class="ink" stroke-width="1.5" d="M220 82 C221 195 219 360 221 507"/>
+<path class="ink" stroke-width="1.8" d="M280 82 C282 205 279 345 280 507"/>
+<path class="ink" stroke-width="1.6" d="M340 82 C339 198 341 355 340 507"/>
+<path class="ink" stroke-width="1.5" d="M400 83 C401 202 399 348 401 507"/>
+<path class="ink" stroke-width="1.7" d="M460 83 C462 197 461 352 460 507"/>
+<text class="ink-text" x="100" y="132" font-size="28" font-style="italic" text-anchor="end">2/14</text>
+<path class="ink-fill-red" d="M160 363 C148 364 140 372 141 382 C141 393 150 400 161 399 C172 399 180 391 179 380 C178 370 171 362 160 363 Z"/>
+<path class="ink-fill" d="M280 109 C269 108 261 117 262 127 C262 137 270 145 281 144 C292 143 299 135 298 125 C297 115 291 109 280 109 Z"/>
+<path class="ink-fill" d="M340 363 C329 362 321 371 322 381 C322 392 331 400 342 399 C353 398 360 390 359 379 C358 369 351 362 340 363 Z"/>
+</svg>
