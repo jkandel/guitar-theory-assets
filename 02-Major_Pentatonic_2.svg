@@ -1,0 +1,31 @@
+<svg width="680" height="600" viewBox="0 0 680 600" xmlns="http://www.w3.org/2000/svg">
+<style>.ink{stroke:#1a1209;fill:none;stroke-linecap:round;stroke-linejoin:round;}.ink-fill{fill:#1a1209;stroke:#1a1209;stroke-width:1;}.ink-fill-red{fill:#b91c1c;stroke:#b91c1c;stroke-width:1;}.ink-fill-gray{fill:#9a9a9a;stroke:#9a9a9a;stroke-width:1;}.ink-text{font-family:"Georgia",serif;fill:#1a1209;}.ink-title{font-family:"Georgia",serif;fill:#1a1209;font-weight:bold;}</style>
+<text class="ink-title" x="311" y="40" font-size="24" text-anchor="middle">Major Pentatonic 2</text>
+<g transform="translate(0,40)">
+<path class="ink" stroke-width="1.7" d="M158 82 Q230 80 308 81 Q390 80 464 83"/>
+<path class="ink" stroke-width="1.7" d="M159 167 Q240 165 308 167 Q390 166 463 168"/>
+<path class="ink" stroke-width="1.6" d="M160 252 Q237 254 309 252 Q388 253 463 251"/>
+<path class="ink" stroke-width="1.8" d="M158 337 Q239 336 308 338 Q389 336 464 338"/>
+<path class="ink" stroke-width="1.7" d="M159 422 Q238 421 309 423 Q387 421 463 424"/>
+<path class="ink" stroke-width="1.6" d="M160 507 Q240 509 308 507 Q388 508 464 506"/>
+<path class="ink" stroke-width="1.7" d="M160 82 C161 200 159 350 160 507"/>
+<path class="ink" stroke-width="1.5" d="M220 82 C221 195 219 360 221 507"/>
+<path class="ink" stroke-width="1.8" d="M280 82 C282 205 279 345 280 507"/>
+<path class="ink" stroke-width="1.6" d="M340 82 C339 198 341 355 340 507"/>
+<path class="ink" stroke-width="1.5" d="M400 83 C401 202 399 348 401 507"/>
+<path class="ink" stroke-width="1.7" d="M460 83 C462 197 461 352 460 507"/>
+<text class="ink-text" x="100" y="131" font-size="24" font-style="italic" text-anchor="end">4</text>
+<path class="ink-fill" d="M201 125 C199 113 209 104 220 107 C230 106 241 115 240 126 C238 136 231 143 218 145 C212 145 198 136 201 123 Z"/>
+<path class="ink-fill" d="M263 125 C262 113 271 106 279 108 C291 107 301 112 297 126 C296 134 291 144 281 143 C270 146 258 136 261 122 Z"/>
+<path class="ink-fill" d="M320 123 C319 115 330 106 341 108 C351 103 361 115 360 125 C356 136 350 144 339 144 C331 143 321 137 320 125 Z"/>
+<path class="ink-fill-red" d="M141 209 C141 198 149 192 159 194 C171 188 181 198 177 213 C178 219 170 228 160 228 C149 229 138 221 142 207 Z"/>
+<path class="ink-fill" d="M381 206 C381 198 390 191 399 194 C411 190 422 200 419 211 C418 222 409 227 399 228 C392 229 381 223 383 206 Z"/>
+<path class="ink-fill-red" d="M441 207 C441 198 450 189 459 192 C469 190 480 199 479 213 C477 223 471 228 458 228 C449 229 441 223 443 206 Z"/>
+<path class="ink-fill" d="M322 294 C321 282 330 275 340 275 C352 276 358 286 361 297 C359 305 352 312 338 312 C331 313 320 306 323 292 Z"/>
+<path class="ink-fill" d="M140 377 C141 370 151 360 159 360 C169 361 180 368 178 382 C178 391 172 398 159 397 C148 399 141 392 142 376 Z"/>
+<path class="ink-fill" d="M202 377 C198 368 209 361 221 361 C232 358 240 369 240 381 C238 392 229 397 221 400 C209 401 199 392 202 378 Z"/>
+<path class="ink-fill-red" d="M260 379 C258 367 272 361 279 364 C291 359 298 369 298 382 C299 391 288 400 279 397 C269 399 262 389 261 377 Z"/>
+<path class="ink-fill" d="M380 378 C380 367 389 360 399 364 C410 361 421 370 421 383 C417 391 410 401 400 398 C389 399 379 393 382 376 Z"/>
+<path class="ink-fill" d="M443 378 C441 371 452 359 461 361 C471 362 478 371 478 383 C479 390 471 400 459 398 C451 401 442 389 442 380 Z"/>
+</g>
+</svg>
